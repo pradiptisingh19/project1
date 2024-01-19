@@ -1,1 +1,1 @@
-#frontend clone of amazon website
+Frontend clone of amazon website
