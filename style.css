@@ -1,0 +1,192 @@
+*{
+    margin: 2px;
+    border: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.navbar{
+    height: 70px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.amalogo{
+
+    height: 65px;
+    width: 112px;
+    border: border-box;
+    border: 2px solid transparent;
+    background-image: url(Amazon-Logo-.webp);
+    background-size: cover;
+}   
+.amalogo:hover{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.option{
+    margin-left: 20px;
+    color: rgb(201, 201, 201);
+}
+.location{
+    margin-left: 20px;
+}
+.address{
+    color: white;
+    border: border-box;
+    border: 2px solid transparent;
+}
+.add{
+    display: flex;
+    border: 2px solid transparent;
+}
+.location:hover{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.search{
+    display: flex;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+#searchbox{
+    border-radius: 5px;
+    height: 25px;
+    width: 500px;
+}
+.magnify{
+    background-color: rgb(255, 174, 0);
+    color: black;
+    border-radius: 5px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+}
+.icon{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+    border: 2px solid transparent;
+    background-image: url(Flag_of_India.svg.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.language:hover{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.language{
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+.option3{
+    height: 50px;
+    margin-left: 20px;
+}
+.option3:hover{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.hello{
+    font-size: 15px;
+    color: rgb(201, 201, 201);
+}
+.accounts{
+    font-size: 15px;
+}
+.orders{
+    margin-left: 20px;
+    font-size: 15px;
+}
+.return{
+    font-size: 14px;
+    color: rgb(201, 201, 201);
+}
+.orders:hover{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.mycart{
+    margin-left: 20px;
+    display: flex;
+    font-size: 15px;
+}
+.mycart:hover,.options:hover,.sell:hover,.gift:hover,
+.miniTV:hover,.deals:hover,.customer:hover,.fresh:hover,
+.buy:hover,.improvement:hover,.idea:hover,.fashion:hover,.shop:hover
+{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.lower,.left{
+    color: white;
+    display: flex;
+    background-color:#091b1b; 
+    justify-content: space-between;
+}
+.left{
+    width: 1100px;
+}
+.options{
+    display: flex;
+}
+.top{
+    height: 600px;
+    background-image: url(top_image.jpg);
+    background-size: cover;
+}
+.boxes{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-evenly;
+}
+.image1{
+    height: 149px;
+    width: 149px;
+    background-image: url(box1\(2\).jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.image2{
+    height: 149px;
+    width: 149px;
+    background-image: url(box2\(2\).jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.image3{
+    height: 149px;
+    width: 149px;
+    background-image: url(box3\(2\).webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.image4{
+    height: 149px;
+    width: 149px;
+    background-image: url(box4\(2\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image5{
+    height: 149px;
+    width: 149px;
+    background-image: url(box5\(2\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image6{
+    height: 149px;
+    width: 149px;
+    background-size: auto;
+    background-image: url(box6\(2\).jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.text1,.text2,.rexr3,.text4,.text5,.text6{
+    text-align: center;
+}
